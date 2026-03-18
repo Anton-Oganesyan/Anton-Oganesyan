@@ -24,4 +24,4 @@
 
 [**Карточка данных клиента в CRM-системе**](https://drive.google.com/drive/folders/1Df1UXjYd1YCq-rMCfb_QhPzIQaNNj7Xz?usp=sharing)
 
-[**Тестовые задания**](https://drive.google.com/drive/folders/1gEX3rqLiviScItVq-tjb_8i4wZa2Mp_z?usp=sharing)
+[**Небольшие задания**](https://drive.google.com/drive/folders/1gEX3rqLiviScItVq-tjb_8i4wZa2Mp_z?usp=sharing)
