@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Обо мне
 
-<!--
-**Anton-Oganesyan/Anton-Oganesyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Системный аналитик с опытом работы в корпоративных IT-проектах (CRM, ERP). Специализируюсь на проектировании систем, проработке требований и взаимодействии с разработкой: описываю API, формирую SRS, моделирую процессы и архитектурные решения, сопровождаю задачи на всех этапах реализации.
 
-Here are some ideas to get you started:
+Работал с amoCRM и внутренней ERP-системой: проектировал доработки и интеграции, описывал API-контракты, создавал UML-диаграммы и BPMN-модели, участвовал в разработке новой версии системы и поддержке текущей, включая полный цикл разработки (груминг, планирование, тестирование, приёмка, релиз). Также участвовал в сборе и уточнении требований и анализе бизнес-процессов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Навыки
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-6DB33F?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-FF6F00?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge)
+![SRS](https://img.shields.io/badge/SRS-Documentation-blue?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📫 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anton0093)
