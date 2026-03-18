@@ -16,3 +16,12 @@
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anton0093)
+
+
+
+## 📁 Портфолио
+[**Сервис Stets Home**](https://docs.google.com/document/d/1KZCsILJhfW2941UEpU9H6W-P8SD0nSMBXscMe6o-uKY/edit?usp=sharing)
+
+[**Карточка данных клиента в CRM-системе**](https://drive.google.com/drive/folders/1Df1UXjYd1YCq-rMCfb_QhPzIQaNNj7Xz?usp=sharing)
+
+[**Тестовые задания**](https://drive.google.com/drive/folders/1gEX3rqLiviScItVq-tjb_8i4wZa2Mp_z?usp=sharing)
