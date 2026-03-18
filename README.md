@@ -6,12 +6,12 @@
 
 ## 🛠 Навыки
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/API-REST-6DB33F?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN-FF6F00?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge)
 ![SRS](https://img.shields.io/badge/SRS-Documentation-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📫 Контакты
 
